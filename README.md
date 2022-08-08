@@ -1,7 +1,5 @@
 <!-- Header Image -->
 <br />
-<p align="center">
-  <img src="https://socialify.git.ci/AnubhavSrivastavaGithub/gh_analyzer/image?font=Bitter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Charlie%20Brown&pulls=1&stargazers=1&theme=Dark" alt="gh_analyzer" width="640" height="320" />
 
   <h1 align="center">Github Profile Analyzer</h1>
 
@@ -9,9 +7,6 @@
     Simple Easy to Use Website to analyze your friend's Github Profile
     <br />
     <br />
-    <a href="http://ghanalyzer.herokuapp.com/">View Live Deployment</a>
-    ·
-    <a href="https://github.com/AnubhavSrivastavaGithub/gh_analyzer/issues">Request Feature</a>
   </h3>
 </p>
 
@@ -58,14 +53,14 @@
 <!-- Screenshots -->
 
 ## Screenshots
-![image](https://user-images.githubusercontent.com/50038824/158022685-dd2ca810-417a-40c4-b64d-4ea8199790ba.png)
-![image](https://user-images.githubusercontent.com/50038824/158022324-1abe152a-08db-4df6-bea8-9880140a2094.png)
-![image](https://user-images.githubusercontent.com/50038824/158022332-a3b23724-d62e-478e-ac77-2d765e399310.png)
-![image](https://user-images.githubusercontent.com/50038824/158022336-4a3060b0-68b6-47d6-a622-9614f66f9216.png)
-
+![1](https://user-images.githubusercontent.com/64765209/183474829-0584233a-5523-417a-8bc6-96c6ebfd3b66.png)
+![2](https://user-images.githubusercontent.com/64765209/183474835-b694016b-6cec-4d37-a4f3-bd73a4715cc2.png)
+![3](https://user-images.githubusercontent.com/64765209/183474839-5925ee79-f1da-4fc2-afe2-407f7a416608.png)
+![4](https://user-images.githubusercontent.com/64765209/183474841-3cf57a0d-7061-4b1c-955d-160f1cae7902.png)
+![5](https://user-images.githubusercontent.com/64765209/183474820-89b7b673-9d97-49e9-be0e-770dc5925972.png)
 
 
 <!-- Made with Love -->
 
-### Made with <span style="color: #e25555;">&#9829;</span> by Anubhav Srivastava
+### Made with <span style="color: #e25555;">&#9829;</span> by Utpal
 
